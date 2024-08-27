@@ -59,7 +59,7 @@ export default function MortgageCalculatorContainer() {
         <div className="flex gap-4 mt-4">
           <div className="sm:col-span-3">
             <label
-              for="first-name"
+              htmlFor="first-name"
               className="block text-sm leading-6 text-gray-900 font-thin"
             >
               Mortgage Term
@@ -79,7 +79,7 @@ export default function MortgageCalculatorContainer() {
 
           <div className="sm:col-span-3">
             <label
-              for="last-name"
+              htmlFor="last-name"
               className="block text-sm leading-6 text-gray-900 font-thin"
             >
               Interest Rate
