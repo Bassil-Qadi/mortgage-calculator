@@ -1,0 +1,24 @@
+.mortgage-container {
+  background-color: white;
+}
+
+.mortgage-container h3 {
+  color: #133042;
+  font-weight: bold;
+}
+
+.bg-green-dark {
+  background-color: #133042;
+}
+
+.mortgage-type__item {
+  outline: 1px solid #133042;
+}
+
+.result-text {
+  color: #3f7ffc;
+}
+
+/* input[type="radio"] {
+  accent-color: #d8df31;
+} */
