@@ -159,7 +159,7 @@ export default function MortgageCalculatorContainer() {
             monthly repaments would be.
           </p>
         )}
-        {result && <h2 className="font-bold mb-2">Your Resutls</h2>}
+        {result && <h2 className="font-bold mb-2">Your Results</h2>}
         {result && (
           <p className="text-gray-500 text-center">
             Your results are shown below based on the information you provided.
